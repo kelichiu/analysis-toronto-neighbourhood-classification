@@ -1,5 +1,5 @@
 # Toronto's Underpriviledged Neighbourhoods are Close to Each Other
-In collaboration with [diegoarmaca](https://github.com/diegoarmaca)
+In collaboration with [Diego Mamanche Castellanos](https://github.com/diegoarmaca)
 
 ## Summary of Findings
 The City of Toronto consists of 140 neighbourhoods. While each of the neighbourhood has its own strength and vitality, some neighbourhoods share similar socioeconomic traits. In this study, we intend to identify neighbourhoods that have disadvantaged socioeconomic status through a clustering analysis using hierarchical clustering. Features of low-income rate, lack of education and racial diversity are employed to cluster the neighbourhoods into two groups. There are 34 neighbourhoods in group 1, while the other 106 are assigned to group 2. The 34 neighbourhoods in group 1 have a higher percentage of the population that have low-income status, possess no educational certification, and are visible minorities; the neighbourhoods in group 1 are seemed as more disadvantaged. The clusters of neighbourhoods are plotted as a choropleth map, which allows us to examine the spatial relationship between disadvantaged neighbourhoods. What we discover is that the disadvantaged the neighbourhoods not only share similar socioeconomic characteristics, but they are also geographically close to each other.
